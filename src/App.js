@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 
-import "./App.css";
 import NavBar from "./components/NavBar/NavBar";
 export const GlobalContext = React.createContext({});
 

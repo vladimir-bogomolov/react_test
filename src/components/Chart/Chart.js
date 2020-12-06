@@ -6,7 +6,7 @@ export default function Chart({ getUrl }) {
   const url = getUrl(dataSet);
   return (
     <div>
-      <img src={url} alt="chart of data" width="90%" />
+      <img src={url} alt="chart of data" width="70%" />
     </div>
   );
 }

@@ -16,7 +16,7 @@ Way 1:
 - Otherwise show to user error message and don't implement state change.
 - For the error message create an additional component with 'error'-styling. Component will take an error message as a prop.
 
-  Way 2:
+Way 2:
 
 - We can instead use `min` and `max` (1 and 10 relatively) attributes for `input` tag.
 - Put additional information (as a <p> under a form) for user, that describes the limits for user.
