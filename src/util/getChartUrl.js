@@ -56,4 +56,3 @@ export const getBarChartUrl = (dataSet) => {
 
   return `https://quickchart.io/chart?c=${JSON.stringify(chartObject)}`;
 };
-
